@@ -1,0 +1,8 @@
+# Dependencies for the FastAPI exercises (17-20). Install with:
+#   pip install -r requirements.txt
+fastapi
+uvicorn
+pyjwt
+python-multipart
+httpx
+pytest
